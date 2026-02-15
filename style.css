@@ -8,7 +8,7 @@
 }
 
 .meio {
-    background: linear-gradient(to right, #97D9E9, #C9EEF7);
+    background: linear-gradient(to right, #ec6ead, #3494e6);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     display: inline-block;
@@ -43,5 +43,6 @@
     justify-content: center;
     font-family: sans-serif;
     margin: auto;
+    /* background-color: aqua; */
 }
 
