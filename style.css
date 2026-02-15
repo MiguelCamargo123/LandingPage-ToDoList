@@ -7,6 +7,15 @@
     width: 100%;
 }
 
+.meio {
+    background: linear-gradient(to right, #97D9E9, #C9EEF7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    align-items: center;
+    width: 100%;
+}
+
 #titulo {
     display: flex;
     align-items: center;
@@ -16,3 +25,23 @@
     font-family: sans-serif;
     margin: 0;
 }
+
+#texto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin: 0;
+    height: 30px;
+}
+
+#pergunta {
+    display: block;
+    align-items: center;
+    height: 20px;
+    justify-content: center;
+    font-family: sans-serif;
+    margin: auto;
+}
+
